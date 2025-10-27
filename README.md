@@ -1,1 +1,1 @@
-[README.txt.txt](https://github.com/user-attachments/files/23172640/README.txt.txt)## Projeto simples de aprovador de alunos baseado na nota e na média - Com base nas aulas do canal Hashtag Programação
+[README.txt.txt]Projeto simples de aprovador de alunos baseado na nota e na média - Com base nas aulas do canal Hashtag Programação
