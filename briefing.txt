@@ -1,0 +1,1 @@
+## Projeto simples de aprovador de alunos baseado na nota e na média - Com base nas aulas do canal Hashtag Programação
